@@ -63,3 +63,5 @@ while [[ $loop -eq 1 ]]; do
         echo -e "${RED}\nGame ID not found. Check game folder path.\n${NC}"
         loop=0
     fi
+
+done
